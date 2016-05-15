@@ -1,0 +1,27 @@
+{
+  "name": "delta-coverage",
+  "version": "1.0.0",
+  "description": "Get the delta between two branches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhaledMohamedP/DeltaCoverage.git"
+  },
+  "keywords": [
+    "delta",
+    "coverage",
+    "branch",
+    "git",
+    "dev",
+    "working"
+  ],
+  "author": "Khaled Mohamed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KhaledMohamedP/DeltaCoverage/issues"
+  },
+  "homepage": "https://github.com/KhaledMohamedP/DeltaCoverage#readme"
+}

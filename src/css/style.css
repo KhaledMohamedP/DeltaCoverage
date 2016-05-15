@@ -1,0 +1,53 @@
+.row {
+  width: 100%;
+}
+
+.form-group textarea {
+  width: 100%;
+      line-height: normal;
+    line-height: 32px\0/; /* for IE 8 */
+}
+
+.two {
+  width: 48%;
+  float: left;
+}
+
+.form-group {
+  padding: 3px;
+  margin: 3px;
+}
+#send {
+  width: 100%;
+  background: #f2f2f2;
+  height: 30px;
+  text-transform: uppercase;
+  margin: 5px;
+}
+
+
+
+::-webkit-input-placeholder {
+   text-align:center;
+
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   text-align:center;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   text-align:center;
+}
+
+:-ms-input-placeholder {
+   text-align:center;
+}
+
+
+@media (max-width: 600px){
+  .two {
+  width: 100%;
+  float: left;
+}
+}
